@@ -6,13 +6,12 @@
 
 
 int main() {
-    float appleCost = 3.9;
-    float orangeCost = 2.5;
-    float milkCost = 3.8;
-
-    float subtotal = 0.0;
-    float total = 0.0;
-    float taxRate = 8.3;
-
+    // Allocate and set line items and their costs
+    // Allocate subtotal and total
+    // Allocate tax rate
+    // Calculate subtotal
+    // Calculate tax cost
+    // Calculate total
+    // Print out receipt
 
 }
