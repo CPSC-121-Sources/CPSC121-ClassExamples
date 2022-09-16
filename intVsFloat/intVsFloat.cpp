@@ -12,3 +12,7 @@ int main() {
 	std::cout << "Float in Int: " << storeInt << std::endl;
 
 }
+
+
+
+
